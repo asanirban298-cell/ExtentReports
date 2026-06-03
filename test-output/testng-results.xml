@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-08T21:34:49 IST" name="Default suite" finished-at="2026-02-08T21:35:00 IST" duration-ms="11048">
+  <suite started-at="2026-04-18T12:56:41 IST" name="Default suite" finished-at="2026-04-18T12:56:53 IST" duration-ms="12424">
     <groups>
     </groups>
-    <test started-at="2026-02-08T21:34:49 IST" name="Default test" finished-at="2026-02-08T21:35:00 IST" duration-ms="11048">
+    <test started-at="2026-04-18T12:56:41 IST" name="Default test" finished-at="2026-04-18T12:56:53 IST" duration-ms="12424">
       <class name="anirbansarkar.ExtentReports.ExtentReportDemo">
-        <test-method is-config="true" signature="config()[pri:0, instance:anirbansarkar.ExtentReports.ExtentReportDemo@a1153bc]" started-at="2026-02-08T21:34:49 IST" name="config" finished-at="2026-02-08T21:34:50 IST" duration-ms="681" status="PASS">
+        <test-method is-config="true" signature="config()[pri:0, instance:anirbansarkar.ExtentReports.ExtentReportDemo@619713e5]" started-at="2026-04-18T12:56:41 IST" name="config" finished-at="2026-04-18T12:56:42 IST" duration-ms="851" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- config -->
-        <test-method signature="initialDemo()[pri:0, instance:anirbansarkar.ExtentReports.ExtentReportDemo@a1153bc]" started-at="2026-02-08T21:34:50 IST" name="initialDemo" finished-at="2026-02-08T21:35:00 IST" duration-ms="10267" status="PASS">
+        <test-method signature="initialDemo()[pri:0, instance:anirbansarkar.ExtentReports.ExtentReportDemo@619713e5]" started-at="2026-04-18T12:56:42 IST" name="initialDemo" finished-at="2026-04-18T12:56:53 IST" duration-ms="11475" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialDemo -->
